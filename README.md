@@ -15,7 +15,7 @@
 
 - [Kewillware](https://github.com/yavuzTheParz/KEWILLware.git)
 
-  <h2>🌐Networking Projects</h2>
+<h2>🌐Networking Projects</h2>
 
 - [Hotellwall](https://github.com/yavuzTheParz/HOTELwall)
 
