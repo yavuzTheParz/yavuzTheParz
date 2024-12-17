@@ -1,13 +1,24 @@
 <h1>Hi, I'm Yavuz</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-  - <b>C++ Projects</b>
-<h2>🎮 Game Development Projects in Unity</h2>
+
+- <b>C++ Projects</b>
+  - [Brick Thrower](https://github.com/yavuzTheParz/brick_thrower)
+
+<h2>🎮 Game Development Projects</h2>
+- <b>Unity</b>
+
    - [Torgeons:Dungeons Adventure](https://play.google.com/store/apps/details?id=com.parzigames.torgeons&hl=en)</br>
    - [Gun Chaos](https://play.google.com/store/apps/details?id=com.ParziGame.GunChaos&hl=en)
+     
 - <h2>🔐Cybersecurity Projects</h2>
-  - [Kewillware]()
-<h2>🔐Networking Projects</h2>
+
+  - [Kewillware](https://github.com/yavuzTheParz/KEWILLware.git)
+    
+<h2>🌐Networking Projects</h2>
+
+- [Hotellwall](https://github.com/yavuzTheParz/HOTELwall)
+
 <h2>📄Certifications</h2>
 
 <h2> 🤳 Connect with me:</h2>
