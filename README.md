@@ -10,12 +10,12 @@
 
    - [Torgeons:Dungeons Adventure](https://play.google.com/store/apps/details?id=com.parzigames.torgeons&hl=en)</br>
    - [Gun Chaos](https://play.google.com/store/apps/details?id=com.ParziGame.GunChaos&hl=en)
-     
-- <h2>🔐Cybersecurity Projects</h2>
 
-  - [Kewillware](https://github.com/yavuzTheParz/KEWILLware.git)
-    
-<h2>🌐Networking Projects</h2>
+<h2>🔐Cybersecurity Projects</h2>
+
+- [Kewillware](https://github.com/yavuzTheParz/KEWILLware.git)
+
+  <h2>🌐Networking Projects</h2>
 
 - [Hotellwall](https://github.com/yavuzTheParz/HOTELwall)
 
