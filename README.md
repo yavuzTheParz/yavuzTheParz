@@ -21,6 +21,8 @@
 
 <h2>🤖AI Projects</h2>
 
+- [Crypto AI Bot] (https://github.com/yavuzTheParz/Crypto-Bot-AI)
+
 <h2>📄Certifications</h2>
 
 <h2> 🤳 Connect with me:</h2>
