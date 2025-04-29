@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C++ Projects</b>
-  - [Brick Thrower](https://github.com/yavuzTheParz/brick_thrower)
+  - [Brick Thrower](https://github.com/draculasfangs/brick_thrower)
 
 <h2>🎮 Game Development Projects</h2>
 - <b>Unity</b>
