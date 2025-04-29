@@ -13,7 +13,7 @@
 
 <h2>🔐Cybersecurity Projects</h2>
 
-- [Kewillware](https://github.com/yavuzTheParz/KEWILLware.git)
+- [Kewillware](https://github.com/yavuzTheParz/Kewillware-ransomware)
 
 <h2>🌐Networking Projects</h2>
 
