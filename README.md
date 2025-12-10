@@ -13,14 +13,17 @@
 
 <h2>🔐Cybersecurity Projects</h2>
 
+- [Prompts vs Filters](https://github.com/yavuzTheParz/prompts_vs_filters)
 - [Kewillware](https://github.com/yavuzTheParz/Kewillware-ransomware)
 
-<h2>🌐Networking Projects</h2>
+<h2>🌐Java Projects </h2>
 
-- [Hotellwall](https://github.com/yavuzTheParz/HOTELwall)
+- [Project 1](https://github.com/yavuzTheParz/CMPE-343-Project-1)
+- [Project 2](https://github.com/yavuzTheParz/CMPE-343-Project-2)
 
 <h2>🤖AI Projects</h2>
 
+- [Prompts vs Filters](https://github.com/yavuzTheParz/prompts_vs_filters)
 - [Crypto AI Bot](https://github.com/yavuzTheParz/Crypto-Bot-AI)
 
 <h2>📄Certifications</h2>
